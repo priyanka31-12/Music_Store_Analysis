@@ -5,3 +5,6 @@ Analyzed the music playlist database with SQL and help the store understand its 
 ## Database and tools used
 * Microsoft SQL
 * Microsoft SQL Server Management Studio
+
+Schema- Music Store Database
+![MusicDatabaseSchema](https://github.com/priyanka31-12/Music_Store_Analysis/assets/76279662/410d54a9-da4e-4930-8a80-e21a2bdd3a29)
